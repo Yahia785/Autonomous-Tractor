@@ -1,2 +1,8 @@
-link to video
-https://drive.google.com/file/d/1n4KrE8jvfRCdJtPMS_Ce2X9l5L-69mp5/view?usp=sharing  
+link to video: https://drive.google.com/file/d/1n4KrE8jvfRCdJtPMS_Ce2X9l5L-69mp5/view?usp=sharing 
+
+Description:
+
+This video shows the tractor driving the whole path and manual control being used. The tractor uses infra red sensor which detects the black tape. Whenever there is a black tape the tractor should make
+a 90 degrees turn. In this video, the tractor stops twice. This is because there is a GUI for manual control. The manual control allows the tractor to be started and stopped
+using a laptop. Thus when the tractor stops and goes again this is the GUI being used.
+ 
